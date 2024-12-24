@@ -78,7 +78,7 @@ This project demonstrates how to fetch and display data from a third-party API, 
 
 ## Live Demo
 
-Check out the live application here: [Weather Dashboard](https://your-github-username.github.io/weather-dashboard/)
+Check out the live application here: [Weather Dashboard](https://michaelpratt23.github.io/06-Weather-Dashboard/)
 
 ---
 
